@@ -1,2 +1,3 @@
 # Medical-Student-Portal
 I programmed a Medical Student Login Portal for which I won 2nd place at the YCDSB Skills Ontario Programming Challenge. 
+We were required to program a login portal for medical students to register an account with their personal information. We also had to include a function for students to submit information for their rotations (supervisor name, start/end date, etc.) We had to include some error trapping to prevent students from inputting the wrong password (when verifying their password during registration), inputting a non-existant email and inputting an invalid end/start date.
